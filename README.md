@@ -1,2 +1,9 @@
 # Java-8
 streams example programs 
+CountStringsGrateThan3
+FindMinimumnumberStream
+FindMinMax
+GenerateMethodRandom
+Random1
+StringJoiner1
+StringjoinMethod
