@@ -4,7 +4,7 @@ package com.java8.quescol;
 import java.util.Random;
 import java.util.stream.Stream;
 
-public class GenerateMethodRandom {
+public class GenerateRandomOtpNum {
 public static void main(String[] args) {
 	
 	
